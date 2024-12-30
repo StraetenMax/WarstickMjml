@@ -1,0 +1,96 @@
+
+<mjml>
+  <mj-head>
+    <mj-title>Warstick Mjml</mj-title>
+    <mj-raw>
+      <meta name="color-scheme" content="light"/>
+      <meta name="supported-color-schemes" content="light"/>
+      <meta name="format-detection" content="telephone=no"/>
+      <meta name="format-detection" content="date=no"/>
+      <meta name="format-detection" content="address=no"/>
+      <meta name="format-detection" content="email=no"/>
+    </mj-raw>
+    <mj-font name="Quantico" href="https://fonts.googleapis.com/css2?family=Quantico"/>
+    <mj-attributes>
+      <mj-text font-family="Quantico, sans-serif" align="center" font-size="18px" line-height="26px" color="#ffffff" padding="0px"/>
+      <mj-image border="none" padding="0"/>
+      <mj-button background-color="#D1AA5A" color="#000000" font-size="14px" font-family="Quantico, sans-serif" text-transform="uppercase" border-radius="0px" height="45px" width="200px"/>
+      <mj-section background-color="#000000" padding="0"/>
+      <mj-class name="head-text" font-size="48px" line-height="69px" text-transform="uppercase"></mj-class>
+    </mj-attributes>
+    <mj-breakpoint width="480px"></mj-breakpoint>
+  </mj-head>
+  <mj-body background-color="#f1f1f1">      
+    <mj-section>
+      <mj-column>
+        <mj-image width="128px" padding="20px" src="https://i.ibb.co/YhWssMd/logo-1.png" alt="logo warstick"/>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://i.ibb.co/Tk47Bm9/hero-image.png" alt="Welcome to the team"/>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="80px">
+      <mj-column>
+        <mj-image href="https://google.com" width="500px" padding-left="50px" padding="50px" src="https://i.ibb.co/ctfv8x7/discount-image.png" alt="Thanks for signing up warrier. Enjoy 10% 0ff your next order!"/>
+        <mj-button padding-top="20px" href="https://google.com">get 10% off now</mj-button>
+        <mj-text font-size="12px">Or Use Code: 123XYZ456 At Checkout</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="80px" padding-left="20px" padding-right="20px">
+      <mj-column width="400px" padding-bottom="15px">
+        <mj-text mj-class="head-text">Why Warstick</mj-text>
+      </mj-column>
+      <mj-column width="420px">
+        <mj-text>We design uniquely original sporting goods for people looking for more substance and style from their stic, without sacrificing performance.</mj-text>
+        <mj-image href="https://google.com" src="https://i.ibb.co/gTnrBjT/why-image.png" alt="learn more"/>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="80px">
+      <mj-column padding-bottom="15px">
+        <mj-text mj-class="head-text" padding-left="20px" padding-right="20px">be the storm</mj-text>
+        <mj-text>Check out latest video.</mj-text>
+        <mj-image href="https://google.com" padding-top="20px" src="https://i.ibb.co/1m9j1cy/video-image.jpg" alt=""/>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="80px">
+      <mj-column>
+        <mj-text font-size="30px" padding-right="20px" padding-left="20px" text-transform="uppercase">Outstanding service</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="30px" padding-left="50px" padding-right="50px">
+      <mj-column width="200px" padding="20px">
+        <mj-image width="40px" src="https://i.ibb.co/Hq1Ng12/truck.png"/>
+        <mj-text font-size="12px" line-height="21px" padding-top="15px">Express Delivery </mj-text>
+      </mj-column>
+      <mj-column width="200px" padding="20px">
+        <mj-image width="40px" src="https://i.ibb.co/Hq1Ng12/truck.png"/>
+        <mj-text font-size="12px" line-height="21px" padding-top="15px">Express Delivery </mj-text>
+      </mj-column>
+      <mj-column width="200px" padding="20px">
+        <mj-image width="40px" src="https://i.ibb.co/Hq1Ng12/truck.png"/>
+        <mj-text font-size="12px" line-height="21px" padding-top="15px">Express Delivery </mj-text>
+      </mj-column>
+      <mj-column width="200px" padding="20px">
+        <mj-image width="40px" src="https://i.ibb.co/Hq1Ng12/truck.png"/>
+        <mj-text font-size="12px" line-height="21px" padding-top="15px">Express Delivery </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="10px" padding-bottom="80px">
+      <mj-column>
+        <mj-text><img width="35px" style="padding:5px;" src="https://i.ibb.co/BKyVH5C/pay1.png"/><img width="35px" style="padding:5px;" src="https://i.ibb.co/mcTzGct/pay2.png"/><img width="35px" style="padding:5px;" src="https://i.ibb.co/chQ0NPv/pay3.png"/><img width="35px" style="padding:5px;" src="https://i.ibb.co/1Zhcm3W/pay4.png"/><img width="35px" style="padding:5px;" src="https://i.ibb.co/LRb7Rqp/pay5.png"/><img width="35px" style="padding:5px;" src="https://i.ibb.co/HpGP4ph/pay6.png"/><img width="35px" style="padding:5px;" src="https://i.ibb.co/7kMR3T7/pay7.png"/></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#F6F6EF" padding-bottom="30px">
+      <mj-column width="300px" padding-top="30px">
+        <mj-text><img width="25px" style="padding:5px" src="https://i.ibb.co/X3hd9SZ/facebook.png"/><img width="25px" style="padding:5px" src="https://i.ibb.co/r0tkmv2/instagram.png"/><img width="25px" style="padding:5px" src="https://i.ibb.co/q9S0470/twitter.png"/><img width="25px" style="padding:5px" src="https://i.ibb.co/m6S5W09/youtube.png"/></mj-text>
+        <mj-text color="#303030" font-family="Helvetica, sans-serif" font-size="12px" line-height="14px" padding-top="15px">
+          <p style="padding-top:0">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean eleifend gravida enim eget sagittis.</p>
+          <p>Aenean quis tempor urna, at ultrices diam. Suspendisse accumsan felis ac eros vehicula, vel condimentum massa mattis.</p>
+        </mj-text>
+        <mj-text font-family="Helvetica, sans-serif" font-size="12px" line-height="14px" padding-top="15px"><a href="https://google.com">Unsubscribe        </a></mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
